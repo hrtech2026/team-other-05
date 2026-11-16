@@ -22,7 +22,7 @@ members:
     role: analyst
   - login: laut1ki
     name: 'Дмитрий Краснов'
-    role: architect, analyst
+    role: architect
   - login: Ssotnikovkirill
     name: 'Кирилл Сотников'
     role: captain
