@@ -18,17 +18,17 @@ number: '05'
 repo: hrtech2026/team-other-05
 members:
   - login: KharitonovSergey
-    name: ''
+    name: 'Сергей Харитонов'
     role: analyst
   - login: laut1ki
-    name: ''
-    role: architect
+    name: 'Дмитрий Краснов'
+    role: architect, analyst
   - login: Ssotnikovkirill
-    name: ''
+    name: 'Кирилл Сотников'
     role: captain
 stakeholders: []
 concept: Кроссплатформенная система стенограммы созвонов делает транскриб. встречи, тезисы, задачи; для
-  HR анализ сильных и слабых сторон кандидата; рекрутер проверяет содержание, решение принимает человек.
+  HR анализ сильных и слабых сторон кандидата;рекрутер проверяет содержание,решение принимает человек.
 stage: idea
 created_at: '2026-10-05'
 internal_notes: ''
