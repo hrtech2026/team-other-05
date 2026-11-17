@@ -1,9 +1,9 @@
 # Команда «Интервью без потерь»
 
-**Трек:** найм / прочее
+**Трек:** Прочее
 **Группа:** 26.М01-нето-пу
 **Репозиторий:** https://github.com/hrtech2026/team-other-05.git
-**Текущий этап:** 03_TO-BE_Human-In-The-Loop
+**Текущий этап:** 02_AS-IS_Анализ
 
 ## Концепт
 
@@ -14,17 +14,17 @@
 | Роль | Участник | GitHub | Отвечает за |
 |---|---|---|---|
 | Капитан | Сотников Кирилл | @Ssotnikovkirill | репозиторий, этапы, сдача, анализ процессов, проработка архитектуры, разработка прототипа |
-| Бизнес-аналитик + Архитеектор решения | Краснов Дмитрий | @laut1ki | Анализ процессов и проработка архитектуры для `01_problem.md`, `02_asis_analysis.md`, `03_tobe_architecture.md`, `docs/04_requirements.md`, `docs/05_glossary.md`|
+| Бизнес-аналитик + Архитектор решения | Краснов Дмитрий | @laut1ki | Анализ процессов и проработка архитектуры для `01_problem.md`, `02_asis_analysis.md`, `03_tobe_architecture.md`, `docs/04_requirements.md`, `docs/05_glossary.md`|
 | Технический аналитик + Архитектор решения | Харитонов Сергей | @KharitonovSergey | Анализ процессов и проработка архитектуры для `01_problem.md`, `02_asis_analysis.md`, `03_tobe_architecture.md`, `docs/04_requirements.md`, `docs/05_glossary.md` |
 
 ## Документы
 
 | Документ | Этап | Ответственный | Состояние |
 |---|---|---|---|
-| [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | завершен |
-| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | завершен |
-| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | в процессе |
-| [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Требования | в процессе |
+| [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | Завершён |
+| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | На сдаче |
+| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | Сдаётся на этапе 3 |
+| [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Требования | Сдаётся на этапе 4 |
 | [`docs/05_glossary.md`](docs/05_glossary.md) | - | - | - |
 
 ## Как работаем

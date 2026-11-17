@@ -1,7 +1,7 @@
 ---
 doc: 02_asis_analysis
 stage: as_is
-team: team-onboarding-01
+team: team-other-05
 updated: 2026-09-26
 authors:
   - "@Ssotnikovkirill"
