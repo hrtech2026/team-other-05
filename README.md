@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | Завершён |
 | [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | Завершён |
-| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | На сдаче |
-| [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Требования | Сдаётся на этапе 4 |
-| [`docs/05_glossary.md`](docs/05_glossary.md) | - | - | - |
+| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | Завершён |
+| [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Требования | Завершён |
+| [`docs/05_glossary.md`](docs/05_glossary.md) | Описание | Капитан | В процессе |
 
 ## Как работаем
 
