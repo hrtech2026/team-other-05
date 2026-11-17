@@ -47,3 +47,9 @@
 - Регламент практики и расписание: `hrtech-practice`
 - Эталон структуры: `student-org/team-template`
 - Методические указания: раздел «Методика» в `hrtech-practice`
+
+## Источники:
+- https://github.com/hrtech2026/hrtech-practice/blob/main/docs/methodology.md
+- https://github.com/hrtech2026/team-template
+- https://api-docs.deepseek.com/quick_start/pricing/
+- https://openrouter.ai/collections/free-models
