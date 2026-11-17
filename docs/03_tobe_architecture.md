@@ -1,7 +1,7 @@
 ---
 doc: 03_tobe_architecture
 stage: to_be
-team: team-onboarding-01
+team: team-other-05
 updated: 2026-09-26
 authors:
   - "@Ssotnikovkirill"
@@ -260,4 +260,3 @@ Net_effect_RUB = C_manual_RUB - C_full_AI_RUB
   "escalation_state": "none"
 }
 ```
-
