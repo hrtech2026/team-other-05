@@ -3,7 +3,7 @@
 **Трек:** найм / прочее
 **Группа:** 26.М01-нето-пу
 **Репозиторий:** https://github.com/hrtech2026/team-other-05.git
-**Текущий этап:** 01_Идея
+**Текущий этап:** 03_TO-BE_Human-In-The-Loop
 
 ## Концепт
 
@@ -11,18 +11,18 @@
 
 ## Состав команды
 
-| Участник | GitHub | Ответственность |
-|---|---|---|
-| Кирилл Сотников | @Ssotnikovkirill | Капитан; требования и качество, аналитик процессов, архитектор решения |
-| Сергей Харитонов | @KharitonovSergey | Аналитик процессов; исследование данных |
-| Дмитрий Краснов | @laut1ki | Аналитик процессов; исследование данных |
+| Роль | Участник | GitHub | Отвечает за |
+|---|---|---|---|
+| Капитан | Сотников Кирилл | @Ssotnikovkirill | репозиторий, этапы, сдача, анализ процессов, проработка архитектуры, разработка прототипа |
+| Бизнес-аналитик + Архитеектор решения | Краснов Дмитрий | @laut1ki | Анализ процессов и проработка архитектуры для `01_problem.md`, `02_asis_analysis.md`, `03_tobe_architecture.md`, `docs/04_requirements.md`, `docs/05_glossary.md`|
+| Технический аналитик + Архитектор решения | Харитонов Сергей | @KharitonovSergey | Анализ процессов и проработка архитектуры для `01_problem.md`, `02_asis_analysis.md`, `03_tobe_architecture.md`, `docs/04_requirements.md`, `docs/05_glossary.md` |
 
 ## Документы
 
 | Документ | Этап | Ответственный | Состояние |
 |---|---|---|---|
 | [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | завершен |
-| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | в процессе |
+| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | завершен |
 | [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | в процессе |
 | [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Требования | в процессе |
 | [`docs/05_glossary.md`](docs/05_glossary.md) | - | - | - |
@@ -47,3 +47,9 @@
 - Регламент практики и расписание: `hrtech-practice`
 - Эталон структуры: `student-org/team-template`
 - Методические указания: раздел «Методика» в `hrtech-practice`
+
+## Источники:
+- https://github.com/hrtech2026/hrtech-practice/blob/main/docs/methodology.md
+- https://github.com/hrtech2026/team-template
+- https://api-docs.deepseek.com/quick_start/pricing/
+- https://openrouter.ai/collections/free-models
