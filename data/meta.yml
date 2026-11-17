@@ -18,13 +18,13 @@ number: '05'
 repo: hrtech2026/team-other-05
 members:
   - login: KharitonovSergey
-    name: ''
+    name: 'Сергей Харитонов'
     role: analyst
   - login: laut1ki
-    name: ''
+    name: 'Дмитрий Краснов'
     role: architect
   - login: Ssotnikovkirill
-    name: ''
+    name: 'Кирилл Сотников'
     role: captain
 stakeholders: []
 concept: Кроссплатформенная система стенограммы созвонов делает транскриб. встречи, тезисы, задачи; для
