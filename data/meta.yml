@@ -18,17 +18,22 @@ number: '05'
 repo: hrtech2026/team-other-05
 members:
   - login: KharitonovSergey
-    name: 'Сергей Харитонов'
+    name: ''
     role: analyst
   - login: laut1ki
-    name: 'Дмитрий Краснов'
+    name: ''
     role: architect
   - login: Ssotnikovkirill
-    name: 'Кирилл Сотников'
+    name: ''
     role: captain
-stakeholders: []
+stakeholders:
+  - Рекрутер
+  - Нанимающий руководитель
+  - Кандидат
 concept: Кроссплатформенная система стенограммы созвонов делает транскриб. встречи, тезисы, задачи; для
   HR анализ сильных и слабых сторон кандидата; рекрутер проверяет содержание, решение принимает человек.
 stage: idea
 created_at: '2026-10-05'
-internal_notes: ''
+internal_notes: 'ИИ-ассистент расшифровывает встречи и готовит сводки, тезисы и задачи.
+  Для HR он формирует карточку по критериям вакансии.
+  Рекрутер проверяет выводы, решение принимает человек.'
